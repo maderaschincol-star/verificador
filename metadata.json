@@ -1,0 +1,5 @@
+{
+  "name": "Verificador de Hechos IA",
+  "description": "Una aplicación web para verificar frases, sucesos o imágenes en línea utilizando la IA de Gemini. Diseñada para ser rápida y fácil de usar en dispositivos móviles.",
+  "requestFramePermissions": []
+}
